@@ -2,6 +2,13 @@
 
 Site url: [https://react-weather-app-42ed1.web.app/](https://react-weather-app-42ed1.web.app/)
 
+## Technologies
+
+TypeScript
+HTML5
+CSS3
+[Open weather api](https://openweathermap.org/api)
+
 ## Available Scripts
 
 In the project directory, you can run:
