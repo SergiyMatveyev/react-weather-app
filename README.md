@@ -1,5 +1,7 @@
 # React weather app
 
+Site url: [https://react-weather-app-42ed1.web.app/](https://react-weather-app-42ed1.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
